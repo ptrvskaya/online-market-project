@@ -1,3 +1,5 @@
+It is a study project. 
+
 It is a secure e-commerce system that allows registered users to place orders.
 
 It is a Python program that allows users to create an online shopping cart. It uses data classes to store user registration information and product details. The program includes password validation checks and provides a way to deposit funds into the user's account.
