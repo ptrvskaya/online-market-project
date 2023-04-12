@@ -11,7 +11,7 @@ def user():
 
 
 def test_user_str_representation(user):
-    assert str(user) == 'Пользователь John Doe, баланс - 10'
+    assert str(user) == 'User John Doe, balance - 10'
 
 
 def test_set_valid_login(user):
@@ -79,7 +79,7 @@ def product():
 
 
 def test_product_str_representation(product):
-    assert str(product) == 'Товар: T-shirt, цена: 20.0'
+    assert str(product) == 'Product: T-shirt, price: 20.0'
 
 
 @pytest.fixture
